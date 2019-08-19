@@ -1,0 +1,145 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.top_bar{
+	background: green;
+	padding: 5px 0;
+}
+.social-icons{
+	margin-right: 5px;
+}
+.contact_info{
+	color: white;
+	font-size: 16px;
+}
+.my_menu{
+	margin-top: 27px;
+}
+.my_menu .navbar-default{
+	background: none; border: none;
+}
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover{
+	background: green;
+	color: #fff;
+}
+.my_menu .navbar-nav li a:hover{
+	background: green;
+	color: #fff;
+}
+.our_images{
+	
+}
+#outerbox{
+	width: 1600px;
+	overflow: hidden;
+}
+#sliderbox{
+	position: relative;
+	width: 9600px;
+	/*animation-name: images;
+	animation-duration: 30s;
+	animation-iteration-count: infinite;*/
+	animation: images 30s infinite;
+}
+#sliderbox img{
+	float: left;
+}
+@keyframes images{
+	0%
+	{
+		left: 0px;
+	}
+	13.33%
+	{
+		left: 0px;
+	}
+	16.66%
+	{
+		left: -1600px;
+	}
+	30%
+	{
+		left: -1600px;
+	}
+	33.33%
+	{
+		left: -3200px;
+	}
+	46.66%
+	{
+		left: -3200px;
+	}
+	50%
+	{
+		left: -4800px;
+	}
+	63.33%
+	{
+		left: -4800px;
+	}
+	70%
+	{
+		left: -6400px;
+	}
+	73.33%
+	{
+		left: -6400
+	}
+	86.66%
+	{
+		left: -8000px;
+	}
+	90%
+	{
+		left: -8000px;
+	}
+	100%
+	{
+		left: -9600px;
+	}
+}
+.services_menu{
+	list-style: none;
+}
+
+.services_menu li{
+	position: absolute;
+	display: none;
+}
+
+
+.services_menu li:hover>a{
+	display: block;
+}
+
+
+
+
+
+.second_row{
+	background-color: #5B8C73;
+	text-align: center;
+}
+.dhapasi, .pobox, .phone{
+	color: #C09B6D;
+}
+.address, .quicklinks,{
+	color: #E0CCA9;
+}
+div>h4{
+	color: #997B54;
+}
+.body_part{
+	margin-top: 20px;
+}
+.para_part{
+	margin-top: 15px;
+	padding-right: 10px;
+}
+.footer{
+	padding-left: 100px;
+	margin-top: 20px;
+	background-color: #E0CCA9;
+}
+

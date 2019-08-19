@@ -1,0 +1,28 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+	position: relative;
+}
+div>h5{
+	color: #BA9262;
+	padding-left: 5%;
+}
+div>li{
+	padding-left: 5%;
+}
+div>p2{
+	padding-left: 5%;
+}
+
+div>p1{
+	padding-left: 5%;
+	float: right;
+}
+
+div>h3{
+	color: #BA9262;
+	padding-left: 5%;
+}
+div>ol>li{	
+	padding-left: 5%;
+}

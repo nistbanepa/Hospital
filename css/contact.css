@@ -1,0 +1,19 @@
+*{
+	margin:0 auto;
+	padding: 0 auto;
+}
+.address_page{
+	padding-left: 9%;
+}
+.address_page>h3{
+	color: #00663F;
+}
+.map{
+	float: right;
+}
+.map_text{
+	color: #00663F;
+}
+.footer{
+	margin-top: 32%;
+}

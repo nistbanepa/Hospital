@@ -1,0 +1,38 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+	position: relative;
+}
+.find_doctor{
+	color: #00663F;
+	padding-left: 5%;
+}
+.home_doctor{
+	padding-left: 5%;
+	
+	color: green;
+	text-decoration: underline;
+}
+.categories{
+	padding-left: 5%;
+}
+
+.row1{
+	padding-left: 5%;
+	text-align: center;
+	color: #BF9260;
+	padding-top: 5%;
+}
+.row2{
+	padding-left: 5%;
+	text-align: center;
+	color: #BF9260;
+}
+.row3{
+	padding-left: 5%;
+	text-align: center;
+	color: #BF9260;
+}
+.footer{
+	margin-top: 53%;
+}
